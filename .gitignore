@@ -1,0 +1,11 @@
+/nbproject
+/node_modules
+/public/storage
+/vendor
+/.idea
+/.vscode
+Homestead.json
+Homestead.yaml
+.env
+*.sublime-workspace
+*.sublime-project
